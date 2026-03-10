@@ -1,6 +1,6 @@
-# Hi, I'm Mustafa 👋
+# Hi, I'm Larry Clark 👋
 
-Frontend Developer | React • Next.js • TypeScript
+Senior Full Stack Developer | React • Next.js • TypeScript • Node.js • MongoDB 
 
 I build scalable, performant, and user-focused web applications using modern frontend technologies.
 
@@ -14,7 +14,7 @@ I build scalable, performant, and user-focused web applications using modern fro
 * 🎯 Interested in performance, accessibility, and UX-driven development
 * 🤝 Open to collaborating on real-world, production-ready projects
 
-📫 Portfolio: [https://e-mustafa.github.io/portfolio/](https://e-mustafa.github.io/portfolio/)
+📫 Portfolio: [https://github.com/LarryClark1023/my-portfolio](https://github.com/LarryClark1023/my-portfolio)
 
 ---
 
@@ -74,23 +74,11 @@ I build scalable, performant, and user-focused web applications using modern fro
 
 ## 📈 GitHub Stats
 
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-mustafa\&show_icons=true\&bg_color=0d1117\&title_color=22d3ee\&icon_color=22d3ee\&text_color=e5e7eb)
+![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-mustafa\&show_icons=true\&bg_color=0d1117\&title_color=22d3ee\&icon_color=22d3ee\&text_color=e5e7eb)
 
 ## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-mustafa\&layout=compact\&bg_color=0d1117\&title_color=22d3ee\&text_color=e5e7eb)
-
----
-
-## 🔗 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=about.me\&logoColor=white)](https://e-mustafa.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/e-mustafa/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/+201119706667)
-[![Email](https://img.shields.io/badge/Email-eng.mustafa@hotmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.mustafa@hotmail.com)
-
-
----
 
 ⭐ Check out my repositories to see real-world projects, clean code, and tested components.
 
