@@ -72,13 +72,7 @@ I build scalable, performant, and user-focused web applications using modern fro
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ---
 
-## 📈 GitHub Stats
-
-![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-mustafa\&show_icons=true\&bg_color=0d1117\&title_color=22d3ee\&icon_color=22d3ee\&text_color=e5e7eb)
-
 ## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-mustafa\&layout=compact\&bg_color=0d1117\&title_color=22d3ee\&text_color=e5e7eb)
 
 ⭐ Check out my repositories to see real-world projects, clean code, and tested components.
 
