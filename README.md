@@ -1,4 +1,4 @@
-# Hi, I'm Larry Clark 👋
+# Hi, I'm Risa Clark 👋
 
 Senior Full Stack Developer | React • Next.js • TypeScript • Node.js • MongoDB 
 
